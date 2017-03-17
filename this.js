@@ -1,4 +1,6 @@
 /**
  * Created by FengShi on 2017/3/17.
  */
-alert('success')
+ alert('success');
+console.log(1111);
+console.log(1111);
